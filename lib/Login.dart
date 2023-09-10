@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'SignUp.dart';
 import 'package:quickalert/quickalert.dart';
 
 class Login extends StatefulWidget {

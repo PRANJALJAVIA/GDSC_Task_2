@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:gdsctask2/Login.dart';
-import 'SignUp.dart';
 
 void main() async {
   runApp(const MyApp());
